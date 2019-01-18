@@ -1,10 +1,10 @@
 # Data-and-Computer-Communications
 ----
-## Data Link Control Protocols
+# Data Link Control Protocols
 
 
 ----
-### Stop-and-Wait Flow Control
+**## Stop-and-Wait Flow Control**
 *The simplest form of flow control, known as stop-and-wait flow control, works as
 follows. A source entity transmits a frame. After the destination entity receives
 the frame, it indicates its willingness to accept another frame by sending back an
